@@ -250,6 +250,7 @@ several packages that are published to package registries for different language
 * JavaScript modules on [npmjs.com][npmjs]:
   * [`web-tree-sitter`][web-ts] — A Wasm-based JavaScript binding to the core library
   * [`tree-sitter-cli`][cli package] — The command-line tool
+  * [`eslint-config-treesitter`][eslint config package] — An ESLint config package
 
 There are also several other dependent repositories that contain other published packages:
 
@@ -352,6 +353,7 @@ and the tree-sitter module is fetched from [here][js url]. This, along with the 
 [docs src]: https://github.com/tree-sitter/tree-sitter/tree/master/docs/src
 [emscripten]: https://emscripten.org
 [emscripten-version]: https://github.com/tree-sitter/tree-sitter/blob/master/crates/loader/emscripten-version
+[eslint config package]: https://www.npmjs.com/package/eslint-config-treesitter
 [generate crate]: https://crates.io/crates/tree-sitter-generate
 [gh.io repo]: https://github.com/tree-sitter/tree-sitter.github.io
 [go.dev]: https://pkg.go.dev
